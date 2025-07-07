@@ -87,7 +87,3 @@ The bot will place the order and print the execution details. Logs are saved in 
 This project is for demonstration and educational use only. Use responsibly and do not deploy with real funds without proper testing.
 
 ---
-
-## 📬 Contact
-
-For questions, reach out via GitHub Issues or [LinkedIn](https://www.linkedin.com).
