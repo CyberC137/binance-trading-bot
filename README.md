@@ -1,26 +1,26 @@
-# Binance Trading Bot 🤖
+# Binance Trading Bot 
 
 A simple trading bot built with Python that connects to the Binance **Futures Testnet** using the official Binance API. This bot allows users to place market and limit buy/sell orders via a command-line interface simulated in a Google Colab notebook.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔒 Uses Binance Futures Testnet for safe trading practice
-- 🧩 Place **Market** and **Limit** orders
-- 🔄 Supports both **Buy** and **Sell** sides
-- 📊 Accepts user inputs for symbol, order type, quantity, and price
-- 🪵 Logs all requests, responses, and errors to a local log file
-- 🔌 Built using the `python-binance` SDK
+-  Uses Binance Futures Testnet for safe trading practice
+-  Place **Market** and **Limit** orders
+-  Supports both **Buy** and **Sell** sides
+-  Accepts user inputs for symbol, order type, quantity, and price
+-  Logs all requests, responses, and errors to a local log file
+-  Built using the `python-binance` SDK
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Binance_Trading_Bot.git
+   git clone https://github.com/CyberC137/Binance_Trading_Bot.git
    cd Binance_Trading_Bot
    ```
 
@@ -36,7 +36,7 @@ A simple trading bot built with Python that connects to the Binance **Futures Te
 
 ---
 
-## 🔑 Setup Binance Futures Testnet
+##  Setup Binance Futures Testnet
 
 1. Register on the [Binance Futures Testnet](https://testnet.binancefuture.com/).
 2. Generate an API Key and Secret.
@@ -49,7 +49,7 @@ A simple trading bot built with Python that connects to the Binance **Futures Te
 
 ---
 
-## 🧠 Usage
+##  Usage
 
 Run each cell in the notebook sequentially. When prompted:
 
@@ -63,7 +63,7 @@ The bot will place the order and print the execution details. Logs are saved in 
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 📦 Binance_Trading_Bot/
@@ -74,7 +74,7 @@ The bot will place the order and print the execution details. Logs are saved in 
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This bot only works on the **Futures Testnet**, not the live environment.
 - Orders are simulated and carry no financial risk.
@@ -82,7 +82,7 @@ The bot will place the order and print the execution details. Logs are saved in 
 
 ---
 
-## 🛡️ Disclaimer
+##  Disclaimer
 
 This project is for demonstration and educational use only. Use responsibly and do not deploy with real funds without proper testing.
 
